@@ -17,6 +17,12 @@ For more details about projects I have worked on, they are described below.
 - **Programming:** Python, R, SQL.
 
 ## Projects
-[NLP on CA School Board Policies](https://github.com/jerramcl/school-board-NLP)
+- [NLP on CA School Board Policies](https://github.com/jerramcl/school-board-NLP)
 
-I analyzed environmental school board policies from 700+ California school districts by extracting text from PDFs using Python (fitz, pdf2image, pytesseract) and cleaning the data with regex and NLP tools. Using regression analysis, semantic similarity, and topic modeling, I explored whether specific policy language correlates with climate action. I created visualizations—including graphs and word clouds—to highlight key patterns and developed a scalable, replicable framework for qualitative policy analysis. The goal was to understand if school board policy language affects implentation of climate friendly action on campuses across California.
+  I analyzed environmental school board policies from 700+ California school districts by extracting text from PDFs using Python (fitz, pdf2image, pytesseract) and cleaning the data with   regex and NLP tools. Using regression analysis, semantic similarity, and topic modeling, I explored whether specific policy language correlates with climate action. I created         
+  visualizations—including graphs and word clouds—to highlight key patterns and developed a scalable, replicable framework for qualitative policy analysis. The goal was to understand if    school board policy language affects implentation of climate friendly action on campuses across California.
+
+- [Investments in Public Transportation on Property Values](https://github.com/jerramcl/transportation-project/tree/main)
+
+  I analyzed the impact of the BART Warm Springs extension on local property values using data from the Zillow API, U.S. Census, and Bureau of Labor Statistics. Employing an OLS         
+  regression model, I accounted for multicollinearity in time-series data and corrected for heteroskedasticity to improve the model’s reliability.
