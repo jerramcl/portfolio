@@ -1,6 +1,6 @@
 # Hi, I'm Jerra!
 
-I am a data analyst with an interest in sustainable tourism and public policy to combat climate change. 
+I am a data analyst with an interest in sustainable tourism and public policy. 
 
 I grew up in South Lake Tahoe, a ski town in Northern California that attracts millions of tourists annually. While tourism sustains the local economy, it also brings challenges like overcrowding, infrastructure strain, traffic, and environmental degradation. Witnessing these tradeoffs firsthand sparked my interest in understanding and addressing complex societal problems.
 
