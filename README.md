@@ -28,3 +28,7 @@ For more details about projects I have worked on, they are described below.
 - [Gender Disparities within the Workplace](https://github.com/jerramcl/women-at-work/tree/main)
   
     This project investigates gender disparities in salaries and leadership representation within the business sector, focusing on whether men earn more than women and if women are underrepresented in leadership roles. By analyzing variables such as salary, gender, highest degree type, occupation group, and leadership roles, the study explores wage gaps and differences in representation to identify potential barriers to gender equity. The findings aim to provide actionable insights into addressing systemic inequalities and promoting equal opportunities in the workplace.
+
+- [Displacement Risk in LA and SF Counties](https://github.com/jerramcl/rent-burden)
+
+      This project compares displacement risk between Los Angeles and San Francisco counties by analyzing factors such as rent burden, health outcomes, and demographic vulnerability. Using data from the CDC, U.S. Census, and other sources, the study evaluates median rent costs, chronic illness prevalence, and at-risk populations, including renters, homeowners, racial groups, seniors, and children. Findings indicate that LA County faces a greater risk of displacement due to higher rent burden, poorer health outcomes, and a larger proportion of marginalized populations. 
