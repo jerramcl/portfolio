@@ -1,12 +1,12 @@
 # Hi, I'm Jerra!
 
-I am a data analyst with an interest in sustainable tourism and public policy. 
+I’m a data analyst with a focus on civic tech and public policy, currently pursuing a Master’s in Computational Social Science at UC Berkeley. My goal is to work at the intersection of data and government—building tools and analyses that make public institutions more transparent, equitable, and effective.
 
-I grew up in South Lake Tahoe, a ski town in Northern California that attracts millions of tourists annually. While tourism sustains the local economy, it also brings challenges like overcrowding, infrastructure strain, traffic, and environmental degradation. Witnessing these tradeoffs firsthand sparked my interest in understanding and addressing complex societal problems.
+My path into this work has been shaped by both academic training and lived experience. I earned my B.A. in Economics and Sociology at UC Santa Barbara, where I worked as a research assistant on a sociological study of mass shootings in America. Through this project, I saw firsthand how data can be used to tell stories, uncover patterns, and support evidence-based change.
 
-I pursued a B.A. in Economics and Sociology at UC Santa Barbara to explore solutions to issues like those in my hometown. Courses in econometrics taught me quantitative analysis and data interpretation, while classes in sociological theory and research methods provided a foundation for analyzing social structures and behaviors. As a research assistant, I applied this knowledge to a sociological study on mass shootings in America, deepening my understanding of how data can address real-world problems.
+Currently, I’m deepening my technical toolkit—developing skills in Python, R, SQL—while continuing to work on mission-driven projects. Most recently, I partnered with Ten Strands, a non-profit focused on Environmental Literacy within K-12 schools, to analyze environmental policy language from over 700 California school districts. I helped build a scalable data pipeline to extract, clean, and analyze policy documents, using topic modeling, semantic similarity and regression analysis to identify language associated with stronger climate action.
 
-Now pursuing a Master’s in Computational Social Science at UC Berkeley, I am learning to combine social science insights with technical skills in Python, R, and SQL to perform exploratory data analysis, causal inference, and machine learning. With firsthand experience in tackling challenges such as balancing tourism with local needs, I am driven by the belief that data can empower communities to navigate complex issues and create sustainable, positive change.
+I’m especially motivated by work that combines data, policy, and social impact—and I’m excited to contribute to projects that help communities and public institutions navigate complex challenges with clarity and care.
 
 For more details about projects I have worked on, they are described below. 
 
