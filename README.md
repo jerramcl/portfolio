@@ -12,10 +12,7 @@ Read below for more details about projects I have worked on.
 
 ### Analytical Skills 
 - **Programming:** Proficient in Python, R and SQL.
-
 - **Data Visualization:** Seaborn, Matplotlib, ggplot2.
-- **Machine Learning Modeling:** Classification, Regression, and Clusterization.
-- **Programming:** Python, R, SQL.
 
 ## Projects
 - [NLP on CA School Board Policies](https://github.com/jerramcl/school-board-NLP)
