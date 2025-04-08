@@ -1,17 +1,18 @@
 # Hi, I'm Jerra!
 
-I’m a data analyst with a focus on civic tech and public policy, currently pursuing a Master’s in Computational Social Science at UC Berkeley. My goal is to work at the intersection of data and government—building tools and analyses that make public institutions more transparent, equitable, and effective.
+I’m a data analyst with a focus on civic tech and public policy, currently pursuing a Masters degree in Computational Social Science at UC Berkeley. My goal is to work at the intersection of data and government, to build tools and analyses that make public institutions more transparent, equitable, and effective.
 
-My path into this work has been shaped by both academic training and lived experience. I earned my B.A. in Economics and Sociology at UC Santa Barbara, where I worked as a research assistant on a sociological study of mass shootings in America. Through this project, I saw firsthand how data can be used to tell stories, uncover patterns, and support evidence-based change.
+My path into this work has been shaped by both academic training and lived experience. I earned my B.A. in Economics and Sociology at UC Santa Barbara, where I worked as a research assistant on a [sociological study of mass shootings in America](https://pubmed.ncbi.nlm.nih.gov/37214768/). Through this project, I saw firsthand how data can be used to tell stories, uncover patterns, and support evidence-based change.
 
-Currently, I’m deepening my technical toolkit—developing skills in Python, R, SQL—while continuing to work on mission-driven projects. Most recently, I partnered with Ten Strands, a non-profit focused on Environmental Literacy within K-12 schools, to analyze environmental policy language from over 700 California school districts. I helped build a scalable data pipeline to extract, clean, and analyze policy documents, using topic modeling, semantic similarity and regression analysis to identify language associated with stronger climate action.
+Currently, I’m deepening my technical toolkit by developing skills in Python, R, SQL, while continuing to work on mission-driven projects. Most recently, I partnered with [Ten Strands](https://tenstrands.org/work/data-initiative/), a non-profit focused on Environmental Literacy within K-12 schools, to analyze environmental policy language from over 700 California school districts. I helped build a scalable data pipeline to extract, clean, and analyze policy documents, using Natural Language Processing (NLP) techniques like topic modeling, semantic similarity and quantitaive techniques like regression analysis to identify language associated with stronger climate action.
 
-I’m especially motivated by work that combines data, policy, and social impact—and I’m excited to contribute to projects that help communities and public institutions navigate complex challenges with clarity and care.
+I’m especially motivated by work that combines data, policy, and social impact! I’m excited to contribute to projects that help communities and public institutions navigate complex challenges with clarity and care.
 
-For more details about projects I have worked on, they are described below. 
+Read below for more details about projects I have worked on.
 
 ### Analytical Skills 
-- **Data Processing and Analytics:** Jupyter Notebook, R Studio, Pandas, Numpy, tidyverse.
+- **Programming:** Proficient in Python, R and SQL.
+
 - **Data Visualization:** Seaborn, Matplotlib, ggplot2.
 - **Machine Learning Modeling:** Classification, Regression, and Clusterization.
 - **Programming:** Python, R, SQL.
