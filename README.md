@@ -8,16 +8,21 @@ Currently, I’m deepening my technical toolkit by developing skills in Python, 
 
 I’m especially motivated by work that combines data, policy, and social impact! I’m excited to contribute to projects that help communities and public institutions navigate complex challenges with clarity and care.
 
-Read below for more details about projects I have worked on.
-
 ### Analytical Skills 
-- **Programming:** Proficient in Python, R and SQL.
-- **Data Visualization:** Seaborn, Matplotlib, ggplot2.
+Through rigorous graduate coursework at UC Berkeley, data-related interships and projects, I’ve developed advanced programming and analytical capabilities at the intersection of data science and social impact. My work spans the full data lifecycle; from engineering robust computing environments to interpreting statistical models for real-world decision-making.
+
+- Proficent in Python for scientific computing and machine learning using pandas, scikit-learn, PyTorch, and spaCy.
+- Built ML pipelines for regression, classification, natural language processing, and causal inference, including Large Language Model fine-tuning.
+- Conducted statistical analysis in R and Python—using regression, hypothesis testing, RCTs, IVs, and panel data—to answer policy and social science questions.
+- Engineered reproducible data pipelines for ingesting, cleaning, and transforming multi-source data (CSV, JSON, SQL, GeoJSON) using tools like pandas and tidyverse.
+
+
+Read below for more details about projects I have worked on.
 
 ## Projects
 - [NLP on CA School Board Policies](https://github.com/jerramcl/school-board-NLP)
 
-    I analyzed environmental school board policies from 700+ California school districts by extracting text from PDFs using Python (fitz, pdf2image,  pytesseract) and cleaning the data with   regex and NLP tools. Using regression analysis, semantic similarity, and topic modeling, I explored whether specific policy language correlates with climate action. I created visualizations—including graphs and word clouds—to highlight key patterns and developed a scalable, replicable framework for qualitative policy analysis. The goal was to understand if school board policy language affects implentation of climate friendly action on campuses across California.
+    I analyzed environmental school board policies from 700+ California school districts by extracting text from PDFs using Python (fitz, pdf2image,  pytesseract) and cleaning the data with regex and NLP tools. Using regression analysis, semantic similarity, and topic modeling, I explored whether specific policy language correlates with climate action. I created visualizations—including graphs and word clouds—to highlight key patterns and developed a scalable, replicable framework for qualitative policy analysis. The goal was to understand if school board policy language affects implentation of climate friendly action on campuses across California.
 
 - [Investments in Public Transportation on Property Values](https://github.com/jerramcl/transportation-project/tree/main)
 
