@@ -30,7 +30,7 @@ Read below for more details about projects I have worked on.
 
 - [Gender Disparities within the Workplace](https://github.com/jerramcl/women-at-work/tree/main)
   
-    This project investigates gender disparities in salaries and leadership representation within the business sector, focusing on whether men earn more than women and if women are underrepresented in leadership roles. By analyzing variables such as salary, gender, highest degree type, occupation group, and leadership roles, the study explores wage gaps and differences in representation to identify potential barriers to gender equity. The findings aim to provide actionable insights into addressing systemic inequalities and promoting equal opportunities in the workplace.
+   This project analyzes gender-based inequalities in salary and leadership representation using data from the National Survey of College Graduates. Through linear and logistic regression modeling, I show that women—especially those with advanced degrees or in the business sector—consistently earn less and are underrepresented in top leadership roles. The analysis highlights how race, education, and family status shape women’s career outcomes and underscores the need for targeted equity interventions.
 
 - [Displacement Risk in LA and SF Counties](https://github.com/jerramcl/rent-burden)
 
