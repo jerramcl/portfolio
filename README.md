@@ -12,7 +12,7 @@ I’m especially motivated by work that combines data, policy, and social impact
 Through rigorous graduate coursework at UC Berkeley, data-related interships and projects, I’ve developed advanced programming and analytical capabilities at the intersection of data science and social impact. My work spans the full data lifecycle; from engineering robust computing environments to interpreting statistical models for real-world decision-making.
 
 **Computing and Machine Learning:**
-- Proficent in Python using pandas, NumPy, matplotlib, scikit-learn, PyTorch, and spaCy for scientific computing and applied machine learning.
+- Proficient in Python using pandas, NumPy, matplotlib, scikit-learn, PyTorch, and spaCy for scientific computing and applied machine learning.
 - Built end-to-end machine learning workflows including feature engineering, hyperparameter tuning, and cross-validation with tools like XGBoost, LightGBM, and Sentence-BERT.
 - Developed natural language processing pipelines and fine-tuned Large Language Models (LLMs) using prompt engineering.
 
