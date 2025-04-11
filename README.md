@@ -11,13 +11,23 @@ I’m especially motivated by work that combines data, policy, and social impact
 ### Analytical Skills 
 Through rigorous graduate coursework at UC Berkeley, data-related interships and projects, I’ve developed advanced programming and analytical capabilities at the intersection of data science and social impact. My work spans the full data lifecycle; from engineering robust computing environments to interpreting statistical models for real-world decision-making.
 
-- Proficent in Python for scientific computing and machine learning using pandas, scikit-learn, PyTorch, and spaCy.
-- Built ML pipelines for regression, classification, natural language processing, and causal inference, including Large Language Model fine-tuning.
+**Computing and Machine Learning:**
+- Proficent in Python using pandas, NumPy, matplotlib, scikit-learn, PyTorch, and spaCy for scientific computing and applied machine learning.
+- Built end-to-end machine learning workflows including feature engineering, hyperparameter tuning, and cross-validation with tools like XGBoost, LightGBM, and Sentence-BERT.
+- Developed natural language processing pipelines and fine-tuned Large Language Models (LLMs) using prompt engineering.
+
+**Statistical Analysis & Causal Inference:**
 - Conducted statistical analysis in R and Python—using regression, hypothesis testing, RCTs, IVs, and panel data—to answer policy and social science questions.
-- Engineered reproducible data pipelines for ingesting, cleaning, and transforming multi-source data (CSV, JSON, SQL, GeoJSON) using tools like pandas and tidyverse.
+- Used statistical modeling tools including statsmodels, ggplot2, and tidycensus to analyze public policy, labor markets, and displacement risk.
 
+**Data Wrangling:**
+- Processed and merged complex datasets across formats (JSON, CSV, GeoJSON), and modalities (tabular, text, spatial).
+- Retrieved and analyzed large-scale web data via APIs, web scraping, and manually downloading files (due to firewalls).
 
-Read below for more details about projects I have worked on.
+**Data Visualization:**
+- Created interactive visualizations using tools like Tableas, Mapdeck, Matplotlib, Seaborn, and ggplot2 to tell engaging data stories. 
+
+**Read below for more details about projects I have worked on.**
 
 ## Projects
 - [NLP on CA School Board Policies](https://github.com/jerramcl/school-board-NLP)
