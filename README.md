@@ -11,21 +11,18 @@ I’m especially motivated by work that combines data, policy, and social impact
 ### Analytical Skills 
 Through rigorous graduate coursework at UC Berkeley, data-related internships and projects, I’ve developed advanced programming and analytical capabilities at the intersection of data science and social impact. My work spans the full data lifecycle; from engineering robust computing environments to interpreting statistical models for real-world decision-making.
 
-**Computing and Machine Learning:**
-- Proficient in Python using pandas, NumPy, matplotlib, scikit-learn, PyTorch, and spaCy for scientific computing and applied machine learning.
-- Built end-to-end machine learning workflows including feature engineering, hyperparameter tuning, and cross-validation with tools like XGBoost, LightGBM, and Sentence-BERT.
-- Developed natural language processing pipelines and fine-tuned Large Language Models (LLMs) using prompt engineering.
+**Data Analysis & Statistical Methods**
+- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, PyTorch, statsmodels) and R (ggplot2, tidyverse, tidycensus) for data analysis, statistical modeling, and scientific computing
+- **Statistical Analysis:** Proficient in descriptive statistics, inference, hypothesis testing, correlation analysis, and regression techniques including multivariate regression and regression diagnostics
+- **Causal Inference:** Experience with experimental design (randomized control trials) and quasi-experimental methods including instrumental variables, regression discontinuity, difference-in-differences, and panel data analysis
+- **Machine Learning:** Applied supervised techniques (regression, classification, ensemble methods) and unsupervised approaches (clustering, dimensionality reduction) using scikit-learn, XGBoost, and LightGBM
+- **Natural Language Processing:** Built end-to-end NLP pipelines using NLTK, spaCy, and Sentence-BERT; experience with topic modeling, sentiment analysis, text classification, and fine-tuned Large Language Models (LLMs) using prompt engineering. 
+Data Visualization: Created explanatory and exploratory visualizations using Matplotlib, Seaborn, ggplot2, Plotly, and Tableau to tell engaging data stories
 
-**Statistical Analysis & Causal Inference:**
-- Conducted statistical analysis in R and Python—using regression, hypothesis testing, RCTs, IVs, and panel data—to answer policy and social science questions.
-- Used statistical modeling tools including statsmodels, ggplot2, and tidycensus to analyze public policy, labor markets, and displacement risk.
-
-**Data Wrangling:**
-- Processed and merged complex datasets across formats (JSON, CSV, GeoJSON), and modalities (tabular, text, spatial).
-- Retrieved and analyzed large-scale web data via APIs, web scraping, and manually downloading files (due to firewalls).
-
-**Data Visualization:**
-- Created interactive visualizations using tools like Tableas, Mapdeck, Matplotlib, Seaborn, and ggplot2 to tell engaging data stories. 
+**Data Engineering**
+- **Data Processing:** Processed and merged complex datasets across formats (JSON, CSV, GeoJSON), and modalities (tabular, text, spatial).
+- **Web Data Retrieval:** Proficient in API usage, web scraping (Requests, BeautifulSoup, Selenium), and manually downloading files (due to presence of firewalls).
+ 
 
 **Read below for more details about projects I have worked on.**
 
