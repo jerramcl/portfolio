@@ -35,4 +35,4 @@ Read below for more details about projects I have worked on.
 
 - [Displacement Risk in LA and SF Counties](https://github.com/jerramcl/rent-burden)
 
-   This project compares displacement risk between Los Angeles and San Francisco counties by analyzing factors such as rent burden, health outcomes, and demographic vulnerability. Using data from the CDC, U.S. Census, and other sources, the study evaluates median rent costs, chronic illness prevalence, and at-risk populations, including renters, homeowners, racial groups, seniors, and children. Findings indicate that LA County faces a greater risk of displacement due to higher rent burden, poorer health outcomes, and a larger proportion of marginalized populations. 
+   I analyzed displacement risk in Los Angeles and San Francisco counties by merging CDC health data with U.S. Census housing data. The project compares rent burden and chronic health outcomes across counties and examines vulnerable subgroups (e.g., renters, seniors, children, racial minorities). Findings show that LA faces greater displacement risk, driven by higher rent burden, worse health indicators, and a larger share of marginalized populations.
