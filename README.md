@@ -26,7 +26,8 @@ Read below for more details about projects I have worked on.
 
 - [Investments in Public Transportation on Property Values](https://github.com/jerramcl/transportation-project/tree/main)
 
-    I analyzed the impact of the BART Warm Springs extension on local property values using data from the Zillow API, U.S. Census, and Bureau of Labor Statistics. Employing an OLS regression model, I accounted for multicollinearity in time-series data and corrected for heteroskedasticity to improve the model’s reliability.
+This project investigates whether the 2017 expansion of BART to Warm Springs in Fremont, CA increased nearby property values. Using a Weighted Least Squares regression model with Zillow housing data from 2011–2020, I controlled for mortgage rates, unemployment, lagged values, and addressed statistical issues like serial correlation and heteroskedasticity. Results showed no statistically significant effect from the station’s opening on local property values, though macroeconomic indicators were strong predictors. A 1% rise in mortgage rates correlated with a 10% drop in property values. It's important to note that due to data limitations at the zip-code level, localized effects may have been obscured. 
+
 
 - [Gender Disparities within the Workplace](https://github.com/jerramcl/women-at-work/tree/main)
   
