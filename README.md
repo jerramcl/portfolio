@@ -9,7 +9,7 @@ Currently, I’m deepening my technical toolkit by developing skills in Python, 
 I’m especially motivated by work that combines data, policy, and social impact! I’m excited to contribute to projects that help communities and public institutions navigate complex challenges with clarity and care.
 
 ### Analytical Skills 
-Through rigorous graduate coursework at UC Berkeley, data-related interships and projects, I’ve developed advanced programming and analytical capabilities at the intersection of data science and social impact. My work spans the full data lifecycle; from engineering robust computing environments to interpreting statistical models for real-world decision-making.
+Through rigorous graduate coursework at UC Berkeley, data-related internships and projects, I’ve developed advanced programming and analytical capabilities at the intersection of data science and social impact. My work spans the full data lifecycle; from engineering robust computing environments to interpreting statistical models for real-world decision-making.
 
 **Computing and Machine Learning:**
 - Proficient in Python using pandas, NumPy, matplotlib, scikit-learn, PyTorch, and spaCy for scientific computing and applied machine learning.
